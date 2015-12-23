@@ -6,7 +6,7 @@
     <id>typescript-vs2015</id>
     <title>TypeScript for Visual Studio 2015</title>
     <version>1.7.6</version>
-    <authors>__REPLACE_AUTHORS_OF_SOFTWARE_COMMA_SEPARATED__</authors>
+    <authors>Microsoft</authors>
     <owners>flcdrg</owners>
     <summary>TypeScript is a language for application-scale JavaScript development. It is included in Visual Studio 2015. </summary>
     <description>TypeScript is a language for application-scale JavaScript. 
@@ -15,7 +15,7 @@
 	TypeScript compiles to clean, readable, standards-based JavaScript. Try it out at http://www.typescriptlang.org/playground.
     </description>
     <projectUrl>http://www.typescriptlang.org/</projectUrl>
-    <!--<packageSourceUrl></packageSourceUrl> -->
+    <packageSourceUrl>https://github.com/flcdrg/chocolatey-typescript-vs2015</packageSourceUrl>
     <projectSourceUrl>https://github.com/Microsoft/TypeScript</projectSourceUrl>
     <docsUrl>http://www.typescriptlang.org/Handbook</docsUrl>    
     <bugTrackerUrl>https://github.com/Microsoft/TypeScript/issues</bugTrackerUrl>
