@@ -33,7 +33,7 @@ $packageArgs = @{
   #silentArgs   = '-q'           # Install4j
   #silentArgs   = '-s -u'        # Ghost
   # Note that some installers, in addition to the silentArgs above, may also need assistance of AHK to achieve silence.
-  silentArgs   = '/quiet /log `"$env:TEMP\chocolatey\$($packageName)\$($packageName).Install.log`"'            
+  silentArgs   = "/quiet /log `"$env:TEMP\chocolatey\$($packageName)\$($packageName).Install.log`""            
                                  #       https://chocolatey.org/packages/autohotkey.portable
   validExitCodes= @(0) #please insert other valid exit codes here
 

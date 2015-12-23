@@ -15,13 +15,12 @@
 	TypeScript compiles to clean, readable, standards-based JavaScript. Try it out at http://www.typescriptlang.org/playground.
     </description>
     <projectUrl>http://www.typescriptlang.org/</projectUrl>
-    <packageSourceUrl></packageSourceUrl>
+    <!--<packageSourceUrl></packageSourceUrl> -->
     <projectSourceUrl>https://github.com/Microsoft/TypeScript</projectSourceUrl>
-    <docsUrl>http://www.typescriptlang.org/Handbook</docsUrl>
-    <mailingListUrl></mailingListUrl>
+    <docsUrl>http://www.typescriptlang.org/Handbook</docsUrl>    
     <bugTrackerUrl>https://github.com/Microsoft/TypeScript/issues</bugTrackerUrl>
     <tags>typescript visualstudio vs2015 admin</tags>
-    <copyright></copyright>
+    <!--<copyright></copyright>-->
     <licenseUrl>http://typescript.codeplex.com/license</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://cdn.rawgit.com/ferventcoder/chocolatey-packages/bd3902ea9e357d5d1b3ece2977f02e5ef60ca84a/icons/typescript.png</iconUrl>
