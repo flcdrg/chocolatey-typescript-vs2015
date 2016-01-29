@@ -29,7 +29,7 @@
       <dependency id="" />
     </dependencies>-->
     <releaseNotes>
-		https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#typescript-18-upcoming
+		https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-18-upcoming
 	</releaseNotes>
     <!--<provides></provides>-->
   </metadata>
