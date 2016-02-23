@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>typescript-vs2015</id>
     <title>TypeScript for Visual Studio 2015</title>
-    <version>1.8.1-beta</version>
+    <version>1.8.4</version>
     <authors>Microsoft</authors>
     <owners>flcdrg</owners>
     <summary>TypeScript is a language for application-scale JavaScript development. It is included in Visual Studio 2015. </summary>
@@ -29,7 +29,7 @@
       <dependency id="" />
     </dependencies>-->
     <releaseNotes>
-		https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-18-upcoming
+		https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-18
 	</releaseNotes>
     <!--<provides></provides>-->
   </metadata>
