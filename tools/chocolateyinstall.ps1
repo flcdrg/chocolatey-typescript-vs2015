@@ -10,7 +10,7 @@ $packageArgs = @{
   fileType      = 'exe'
   url           = $url
 
-  silentArgs   = "/quiet /log `"$env:TEMP\chocolatey\$($packageName)\$($packageName).Install.log`""
+  silentArgs   = "/quiet /log /norestart `"$env:TEMP\chocolatey\$($packageName)\$($packageName).Install.log`""
   validExitCodes= @(0)
 
   softwareName  = 'TypeScript Tools for Microsoft Visual Studio 2015 1.8.4.0'
