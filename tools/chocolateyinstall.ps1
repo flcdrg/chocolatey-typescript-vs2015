@@ -2,7 +2,7 @@
 
 $packageName= 'typescript-vs2015'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://download.microsoft.com/download/6/D/8/6D8381B0-03C1-4BD2-AE65-30FF0A4C62DA/TS-2.2-dev14update3-20170321.1/TypeScript_Dev14Full.exe'
+$url        = 'https://download.microsoft.com/download/6/D/8/6D8381B0-03C1-4BD2-AE65-30FF0A4C62DA/2.3.1-TS-release-dev14update3-20170425.3/TypeScript_Dev14Full.exe'
 
 $packageArgs = @{
   packageName   = $packageName
@@ -13,8 +13,8 @@ $packageArgs = @{
   silentArgs   = "/quiet /norestart /log `"$env:TEMP\chocolatey\$($packageName)\$($packageName).Install.log`""
   validExitCodes= @(0)
 
-  softwareName  = 'TypeScript Tools for Microsoft Visual Studio 2015 2.2.2.0'
-  checksum      = '8F9D863234E2363A38A4B9FE493571B3DBE5B1E5DF483AA9329DAB3AE77B3F87'
+  softwareName  = 'TypeScript Tools for Microsoft Visual Studio 2015 2.3.1.0'
+  checksum      = '96CCD2FA1BD198B19AFF0E629626E2AEE700917996177B6E446CF29E9CBB59DD'
   checksumType  = 'sha256'
 }
 
