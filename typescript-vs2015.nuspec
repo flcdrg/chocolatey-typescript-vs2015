@@ -24,8 +24,8 @@ This is a standalone, power tool release of TypeScript for Visual Studio 2015. I
     <bugTrackerUrl>https://github.com/Microsoft/TypeScript/issues</bugTrackerUrl>
     <tags>typescript visualstudio visual studio vs2015 admin</tags>
     <copyright>https://raw.githubusercontent.com/Microsoft/TypeScript/master/CopyrightNotice.txt</copyright>
-    <licenseUrl>https://raw.githubusercontent.com/Microsoft/TypeScript/master/LICENSE.txt</licenseUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://www.typescriptlang.org/License.html</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <iconUrl>http://cdn.rawgit.com/ferventcoder/chocolatey-packages/bd3902ea9e357d5d1b3ece2977f02e5ef60ca84a/icons/typescript.png</iconUrl>
     <releaseNotes>
 		https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript
